@@ -1,0 +1,25 @@
+/* CSS Global styles */
+* {
+    background-color: #151515;
+    color: #FFFFFF;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* CSS Type styles */
+img {height:auto;width:50vw;max-width:500px;
+    display:block;margin-left:auto;margin-right:auto;
+    padding-top:25px;padding-bottom:25px;}
+a:link {color:#9fcabc;text-decoration:none;transition:300ms;}
+a:visited {color:#9fcabc;text-decoration:none;transition:300ms;}
+a:hover {color:#47a386;transition: 300ms;}
+a:active {color:#0e7856;}
+h1 {text-align:center;font-size: 32px;padding-top:25px;}
+h3 {font-size: 24px;}
+body {margin-left:15vw;margin-right:15vw;}
+
+/* CSS Class styles */
+.indexlist {
+    list-style-type: none;
+    text-align: center;
+}
+/* CSS ID styles */
